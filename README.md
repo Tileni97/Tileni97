@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tileni97
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Java and SQL
-- 💞️ I’m looking to collaborate on any Java projects
+- 🌱 I’m currently learning Java, Python, and SQL
+- 💞️ I’m looking to collaborate on any Java and Python projects
 - 📫 How to reach me: tilenihango@gmail.com
 
 <!---
