@@ -15,17 +15,6 @@ Hello! I'm Tileni Hango, a third-year computer science student at the Namibia Un
 [![Tileni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tileni97&show_icons=true&theme=radical)](https://github.com/Tileni97) 
 
 
-## 📫 How to Reach Me
-
-- 📧 Email: [tilenihango@gmail.com](mailto:tilenihango@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/christofine-tileni-hango/
-- 🐦 Twitter: [https://x.com/Tilenih
-
-## 🤝 Let's Connect!
-
-I'm always open to new connections and collaborations. Feel free to reach out – let's explore the possibilities together! 🚀
-
-
 ## 🤖 Currently Crafting: Virtual Companion Chatbot with Journaling
 
 As a big sister, I'm deeply invested in my little sister's well-being. With her navigating the challenges of teenagehood and depression, and the added distance as she's currently in Russia while I'm in Namibia, I wanted to create something to support her.
@@ -49,3 +38,15 @@ This project is my attempt to build a virtual companion chatbot that doubles as 
 
 
 This project is more than just code; it's a bridge across continents, a testament to the power of technology to connect and care.
+
+
+
+## 📫 How to Reach Me
+
+- 📧 Email: [tilenihango@gmail.com](mailto:tilenihango@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/christofine-tileni-hango/
+- 🐦 Twitter: [https://x.com/Tilenih
+
+## 🤝 Let's Connect!
+
+I'm always open to new connections and collaborations. Feel free to reach out – let's explore the possibilities together! 🚀
