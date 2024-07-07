@@ -19,7 +19,7 @@ Hello! I'm Tileni Hango, a third-year computer science student at the Namibia Un
 
 - 📧 Email: [tilenihango@gmail.com](mailto:tilenihango@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/christofine-tileni-hango/
-- 🐦 Twitter: [@tileni](https://twitter.com/tileni)
+- 🐦 Twitter: [https://x.com/Tilenih
 
 ## 🤝 Let's Connect!
 
