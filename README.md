@@ -1,7 +1,5 @@
 # Hi there, I'm Tileni Hango 👋
 
-[![Tileni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tileni97&show_icons=true&theme=radical)](https://github.com/Tileni97) 
-
 Hello! I'm Tileni Hango, a third-year computer science student at the Namibia University of Science and Technology (NUST). I'm an aspiring software developer interested in the backend, although I've also dabbled in full-stack projects. I have a knack for learning quickly and am always eager to explore new technologies. I enjoy building projects that help me expand my skill set with the help of YouTube. 
 
 
@@ -13,6 +11,8 @@ Hello! I'm Tileni Hango, a third-year computer science student at the Namibia Un
 ## 📊 GitHub Stats & Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tileni97&layout=compact&theme=radical)](https://github.com/Tileni97)
+
+[![Tileni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tileni97&show_icons=true&theme=radical)](https://github.com/Tileni97) 
 
 
 ## 📫 How to Reach Me
