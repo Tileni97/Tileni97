@@ -39,7 +39,9 @@ This project is my attempt to build a virtual companion chatbot that doubles as 
 
 This project is more than just code; it's a bridge across continents, a testament to the power of technology to connect and care.
 
+## 🌍 Portfolio Website
 
+You can explore my portfolio website at
 
 ## 📫 How to Reach Me
 
