@@ -1,6 +1,6 @@
 # Hi there, I'm Tileni Hango 👋
 
-Hello! I'm Tileni Hango, a third-year computer science student at the Namibia University of Science and Technology (NUST). I'm an aspiring software developer interested in the backend, although I've also dabbled in full-stack projects. I have a knack for learning quickly and am always eager to explore new technologies. I enjoy building projects that help me expand my skill set with the help of YouTube. 
+Hello! I'm Tileni Hango, a Final-year computer science student at the Namibia University of Science and Technology (NUST). I'm an aspiring software developer interested in the backend, although I've also dabbled in full-stack projects. I have a knack for learning quickly and am always eager to explore new technologies. I enjoy building projects that help me expand my skill set with the help of YouTube. 
 
 
 ## 🛠️ Languages & Tools
