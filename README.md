@@ -15,30 +15,6 @@ Hello! I'm Tileni Hango, a Final-year computer science student at the Namibia Un
 [![Tileni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tileni97&show_icons=true&theme=radical)](https://github.com/Tileni97) 
 
 
-## 🤖 Currently Crafting: Virtual Companion Chatbot with Journaling
-
-As a big sister, I'm deeply invested in my little sister's well-being. With her navigating the challenges of teenagehood and depression, and the added distance as she's currently in Russia while I'm in Namibia, I wanted to create something to support her.
-
-This project is my attempt to build a virtual companion chatbot that doubles as a safe space for journaling. Here's the vision:
-
-**Features:**
-
-- **Conversational AI:** Engaging chatbot powered by the OpenAI GPT API.
-- **Mental Health Check-ins:** Gentle prompts to gauge her emotional state.
-- **Journaling:** A secure, private haven for her thoughts and feelings.
-- **Activities and Games:** Lighthearted interactions to lift her spirits.
-
-**Tech Stack:**
-
-- **Frontend:** React.js
-- **Backend:** Django (Python)
-- **Database:** PostgreSQL or MongoDB 
-- **Authentication:** Firebase Auth or Django's built-in authentication
-- **Hosting:** Vercel (frontend), Heroku (backend)
-
-
-This project is more than just code; it's a bridge across continents, a testament to the power of technology to connect and care.
-
 ## 🌍 Portfolio Website
 
 You can explore my portfolio website at
