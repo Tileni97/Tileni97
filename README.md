@@ -1,4 +1,4 @@
-<img src="[https://cdn.dribbble.com/users/605899/screenshots/2563861/media/9e959b0a9a9576953a43d82b121bdbe1.gif" width="100%">
+![Coding GIF](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif)
 
 # 💖 Welcome to Tileni's Cosmic Code Corner! 🚀
 
