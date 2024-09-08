@@ -1,5 +1,3 @@
-![Coding GIF](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif)
-
 <img src="https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif" width="500" alt="Coding GIF">
 
 # 💖 Welcome to Tileni's Cosmic Code Corner! 🚀
