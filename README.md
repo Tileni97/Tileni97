@@ -1,4 +1,4 @@
-![Coder Girl](https://i.pinimg.com/564x/8d/ff/66/8dff66e12c64bc677b9275dea19e17cb.jpg)
+![Coder Girl](https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif)
 
 # 💖 Welcome to Tileni's Cosmic Code Corner! 🚀
 
