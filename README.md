@@ -29,6 +29,37 @@ These are the alien languages I've decoded so far:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tileni97&layout=compact&theme=radical&title_color=FF69B4&text_color=00FFFF&bg_color=0D1117)](https://github.com/Tileni97)
 
+## 🏆 Achievements and Milestones
+
+Behold, the trophies from my coding quests!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tileni97&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 My Coding Streak
+
+Witness the flame of my consistent contributions:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tileni97&theme=radical)](https://git.io/streak-stats)
+
+## 📊 This Week I Spent My Time On
+
+```text
+💻 Programming Languages:
+JavaScript   █████████░░░░░░░░░░░░░   40.00% 
+Python       ██████░░░░░░░░░░░░░░░░   25.00% 
+Java         ████░░░░░░░░░░░░░░░░░░   15.00% 
+HTML/CSS     ███░░░░░░░░░░░░░░░░░░░   10.00% 
+Other        ███░░░░░░░░░░░░░░░░░░░   10.00%
+
+🔥 Editors:
+VS Code      ██████████████████░░░░   80.00% 
+IntelliJ     ████░░░░░░░░░░░░░░░░░░   20.00%
+
+💻 Operating System:
+Windows      █████████████████████░   95.00% 
+Linux        █░░░░░░░░░░░░░░░░░░░░░   05.00%
+```
+
 ## 🎬 Featured Productions
 
 Check out the blockbusters from my coding studio:
