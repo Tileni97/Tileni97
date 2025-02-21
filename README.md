@@ -35,6 +35,11 @@ I'm a final-year Computer Science student at the **Namibia University of Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
 
+### **Data Analytics Tools**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
 ### **Databases**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -94,6 +99,14 @@ Here are some of my favorite projects from my coding journey:
 
 ### **4. AI Web Scraper - AI-Powered Data Extraction**
 [![AI Web Scraper](https://github-readme-stats.vercel.app/api/pin/?username=Tileni97&repo=AI-Web-Scraper&theme=radical&title_color=FF69B4&icon_color=FF1493&text_color=00FFFF&bg_color=0D1117)](https://github.com/Tileni97/AI-Web-Scraper)
+
+---
+
+## 📊 Data Analytics Portfolio
+
+Check out my **Data Analytics Portfolio** to see my work with **Tableau**, **Power BI**, and more:
+
+[![Data Science Portfolio](https://img.shields.io/badge/Data_Science_Portfolio-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)](https://www.datascienceportfol.io/tilenihango)
 
 ---
 
